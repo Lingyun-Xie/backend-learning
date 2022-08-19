@@ -39,9 +39,7 @@ Return Example:
     "skills": "Frontend Dev"
   }
 ]
-```    
-
-
+```
 
 
 
